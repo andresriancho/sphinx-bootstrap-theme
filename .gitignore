@@ -7,3 +7,10 @@ dist
 demo/build/*
 node_modules
 __pycache__
+
+# Eclipse
+.project
+.pydevproject
+
+# Backups
+*~
